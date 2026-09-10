@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Rowan (@rowandata306)
 
-<!--
-**rowandata306/rowandata306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software tinkerer based in Munich. I spend my time building backend tools, maintaining small open-source packages, and writing CLI apps.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Backend services and network tools with Go
+- Automation scripts and data utilities in Python
+- Web tooling with modern JavaScript
+- Containerizing everything via Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** Go, Python, JavaScript
+- **Environment:** Neovim, Linux, Docker, Git
+
+#### Connect
+- Open an issue/PR on any repo
+- Matrix: `@rowan:matrix.org`
+- Mail: `rowandata306@proton.me`
